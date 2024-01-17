@@ -16,6 +16,15 @@ import pandas as pd: Imports the Pandas library and assigns it the alias pd. Pan
 Summary statistics, visualizations, and interpretive text describing the distribution of the principal balance.
 # Visualization
 Includes 6 polished visualizations of relevant findings.
+
+# Exploring Correlation
+
+Exploring Correlation Exploring correlation between amount of loan disbursed and count of disbursement and impact
+
+# Data Visualization
+
+Data Visualization Incorporates eight refined visualizations that illustrate trends and relationships among various variables
+
 # Trend
 Includes the movement of principal balances and loan amounts from 2010 to date
 
